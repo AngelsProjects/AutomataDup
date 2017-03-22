@@ -1,0 +1,21 @@
+Mexicali		Nombre
+45.6		﻿Numero
+a5.7		Error
+5		﻿Numero
+Casas24		Error
+Tecnologico		Nombre
+De#4		Error
+RUGT960214HBSZTM08		Curp
+recon@hotmail.com		Correo
+a14490874@itmexicali.edu		Correo
+14490874		﻿Numero
+ftp://sgc.itm.com		Url
+http://quenald147.ook		Url
+http://mi.pagina.com		Url
+https//estaEsMipagina.com		Url
++936		NEnteros
+-552		NEnteros
++2.14		NReales
+-1.125		NReales
+CALA020604		rfc / No homoclave
+CALQ0206045G9		rfc / homoclave
